@@ -1,0 +1,7 @@
+{
+  "name": "CS-Projects",
+  "version": "1.0.0",
+  "dependencies": {
+    "@bearer/node": "latest"
+  }
+}

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="CS-2420">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../CS-2420" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../CS-2420/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
